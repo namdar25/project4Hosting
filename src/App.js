@@ -7,7 +7,6 @@ import { Authentication } from './Authentication';
 import { ActivityFeed } from './ActivityFeed';
 import { Home } from './Home';
 import '../node_modules/jquery/dist/jquery.js';
-import '../node_modules/popper.js/dist/popper.js';
 import '../node_modules/bootstrap/dist/css/bootstrap.css';
 import '../node_modules/bootstrap/dist/js/bootstrap.js';
 
